@@ -23,7 +23,8 @@ Modeling of the concept | Specific technical files | Template for a list of the 
 Schematics of principles | Specific technical filesOr Text document | Template for a list of the technical files used, each files shall be tagged.Therefore a list of tags shall be proposed with the catalog template.For Text documentation, a template to present:- the theories used- the reasoning- the results
 Manufacturing / Machining | Specific technical files | Template for a list of the technical files used, each files shall be tagged.Therefore a list of tags shall be proposed with the catalog template.
 Assembly | Specific technical filesOr Text document (manual) | Template for a list of the technical files used, each files shall be tagged.Therefore a list of tags shall be proposed with the catalog template.For Text documentation, a template to present:- The material needed - The competences (taaags!!)- A template step (number/description/results)
-Test & Validation | Text & Images | A template document to present the final product for helping the sharing of it
+Test & Validation | Text & Images | A template document that follow a test plan to validate the final product
+References | Text & Images | Documentation to register realised products
 
 
 ## How to document
