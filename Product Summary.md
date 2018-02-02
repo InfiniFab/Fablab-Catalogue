@@ -42,7 +42,7 @@ Conception Files | Descritpion | Software
 
 #### This file shall store all the information realted to the manufacturing of the product. The manufacturing might be related to a freezed version of the conception of the product.
 
-### 1. Raw material used for the mnufaturing
+### 1. Raw material used for the manufaturing
 Reference | Type (tag) | Description
 ----------|------------|------------
 *A* | *Wood plate*| *raw wood plate dimension : l :300mm L:200mm : e: 12mm*
