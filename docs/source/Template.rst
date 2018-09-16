@@ -1,4 +1,4 @@
-Template d'un produit dans le catalogue
-=======================================
+Template
+========
 
 Ce que pourrait etre le template d'un produit du catalogue
