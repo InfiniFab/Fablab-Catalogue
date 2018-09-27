@@ -15,13 +15,14 @@ Le Catalogue est une proposition de produit ayant déjà été réalisé dans un
 
 Le Catalogue s'adresse ainsi aux personnes désirant s'initier au monde des fablabs mais n'ayant pas forcement une idée précise de ce qu'ils pourraient réaliser.
 
-Il s'agit là aussi de proposer une manière de documenter un projet qui soit compatible à sa production dans plusieurs fablabs, avoir un **template** qui puisse etre repris par d'autre maker pour documenter facilement leur projets. Essai
+Il s'agit là aussi de proposer une manière de documenter un projet qui soit compatible à sa production dans plusieurs fablabs, avoir un **template** qui puisse etre repris par d'autre maker pour documenter facilement leur projets. 
 
 .. toctree::
    :maxdepth: 1
 
-   Template pouvant etre utilisé pour n'impote quel projet <template>
+   
    Le catalogue actuel<catalogue_infinifab>
+   Template pouvant etre utilisé pour n'impote quel projet <template>
 
 
 
