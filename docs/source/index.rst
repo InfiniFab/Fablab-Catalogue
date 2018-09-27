@@ -20,7 +20,7 @@ Il s'agit là aussi de proposer une manière de documenter un projet qui soit co
 .. toctree::
    :maxdepth: 1
 
-   template
+   Template pouvant etre utilisé pour n'impote quel projet <template>
    Le catalogue actuel<catalogue_infinifab>
 
 
