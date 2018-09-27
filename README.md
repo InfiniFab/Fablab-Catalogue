@@ -1,3 +1,8 @@
+#Read the doc : Le catalogue
+
+Afin de rendre l'échange plus aisé et agréable la documentation sur le catalogue peut -etre trouvée sur le lien suivant:
+https://infini-fab-catalogue.readthedocs.io/en/latest/
+
 # Fablab-Catalog
 Catalog Documentation template for fablab
 
@@ -9,8 +14,8 @@ This template shall be general enough to be applicable to all possible project.
 ## Rationale
 
 ### Step of a project
-The catalog shall take in account all the steps of a DIY project. 
-For the moment the conception and the manufacturing shall be the 2 main steps of a project. 
+The catalog shall take in account all the steps of a DIY project.
+For the moment the conception and the manufacturing shall be the 2 main steps of a project.
 The conception shall be usable as it is in all Fablab.
 The manufacturing shall be related to a specific configuration(machines/fablab/...). For exemple each fablab shall produce their own manufacturing documentation.
 
@@ -30,4 +35,3 @@ References | Text & Images | Documentation to register realised products
 ## How to document
 
 Clone this repository then follow the information to be filed in Product summary.md file
-
