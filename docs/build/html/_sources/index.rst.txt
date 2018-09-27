@@ -19,13 +19,10 @@ Il s'agit là aussi de proposer une manière de documenter un projet qui soit co
 
 .. toctree::
    :maxdepth: 1
+
    template
+   Le catalogue actuel<catalogue_infinifab>
 
-Le Catalogue Infini Fab
-=======================
-
-
-   :ref:`catalogue_infinifab`
 
 
 Indices and tables
@@ -33,5 +30,4 @@ Indices and tables
 
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
